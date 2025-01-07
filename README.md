@@ -1,4 +1,4 @@
-# react-portfolio
+# React-Portfolio
 UCB-VIRT-FSF-PT-07-2024-U-LOLC homework assignment #20
 
 ## User Story
@@ -8,7 +8,6 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
-
 ## Acceptance Criteria
 
 ```md
@@ -45,14 +44,16 @@ The following animation shows the web application's appearance and functionality
 
 ![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
 
-## Link to Deployed Application 
+## Link to deployed application 
 
 ## Technologies Used
 
-## Contact Me 
-Have additional questions? Click the links below to reach me through Github or Email.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[Link to Github](https://github.com/dawsofd)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[Email](mailto:d.dohlen@pm.me)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
