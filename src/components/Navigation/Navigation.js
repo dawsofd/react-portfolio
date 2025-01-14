@@ -5,7 +5,6 @@ const pages = ['About', 'Portfolio', 'Contact', 'Resume'];
 
 function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
     return (
-        <>
         <ul
             className='nav nav-tabs'
             style={{ paddingRight: '35px', paddingTop: '22px' }}
@@ -51,7 +50,6 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
                 </a>
             </li>
           </ul>
-        </>
     );
 }
 

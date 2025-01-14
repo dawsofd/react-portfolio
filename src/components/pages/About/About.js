@@ -5,7 +5,7 @@ import CardMedia from "@mui/material/CardMedia";
 
 export default function About() {
     return (
-        <>
+      <>
           <div className='image-container'>
             <CardMedia
               component='img'

@@ -9,7 +9,6 @@ const App = () => {
   const [currentPage, setCurrentPage] = useState("About");
 
   return (
-    <>
       <div>
        <Header currentPage={currentPage} setCurrentPage={setCurrentPage} />
        <PortfolioContainer
@@ -18,7 +17,6 @@ const App = () => {
        />
        <Footer />
       </div>
-    </>
   );
 };
 
