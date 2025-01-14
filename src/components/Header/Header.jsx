@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from '../Navigation/Navigation';
-import Header from './Header.css';
+import './Header.css';
 
 export default function Header({ currentPage, setCurrentPage }) {
     return (
