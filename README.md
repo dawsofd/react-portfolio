@@ -52,7 +52,7 @@ The following screenshots show the web application's appearance and functionalit
 
 ## Link to deployed application 
 
-![Link to Dawson Dohlen's Portfolio](https://majestic-baklava-d79074.netlify.app/)
+https://majestic-baklava-d79074.netlify.app/
 
 ## Technologies Used
 
