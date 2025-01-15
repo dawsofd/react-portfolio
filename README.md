@@ -40,13 +40,19 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+The following screenshots show the web application's appearance and functionality:
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./src/assets/20-react-homework-demo-01.gif)
+![About Me](./src/assets/about.png)
+
+![My Portfolio](./src/assets/portfolio.png)
+
+![Contact Me](./src/assets/contact.png)
+
+![Resume](./src/assets/resume.png)
 
 ## Link to deployed application 
 
-https://heroic-marshmallow-dc59eb.netlify.app/
+![Link to Dawson Dohlen's Portfolio](https://majestic-baklava-d79074.netlify.app/)
 
 ## Technologies Used
 
@@ -59,3 +65,5 @@ https://heroic-marshmallow-dc59eb.netlify.app/
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
