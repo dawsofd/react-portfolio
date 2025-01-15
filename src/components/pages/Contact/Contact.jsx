@@ -79,7 +79,7 @@ export default function Contact() {
                   name='name'
                   type='text'
                   variant='outlined'
-                  style={{ backgroundColor: 'whitesmoke' }}
+                  style={{ color: 'black', backgroundColor: 'whitesmoke' }}
                 />
               </MenuItem>
               <MenuItem>
@@ -93,7 +93,7 @@ export default function Contact() {
                   name='email'
                   type='email'
                   variant='outlined'
-                  style={{ backgroundColor: 'whitesmoke' }}
+                  style={{ color: 'black', backgroundColor: 'whitesmoke' }}
                 />
               </MenuItem>
               <MenuItem>
@@ -107,7 +107,7 @@ export default function Contact() {
                   name='message'
                   type='text'
                   variant='outlined'
-                  style={{ backgroundColor: 'whitesmoke' }}
+                  style={{ color: 'black', backgroundColor: 'whitesmoke' }}
                   placeholder='Write your message here!'
                 />
               </MenuItem>

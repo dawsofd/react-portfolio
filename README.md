@@ -46,6 +46,8 @@ The following animation shows the web application's appearance and functionality
 
 ## Link to deployed application 
 
+https://heroic-marshmallow-dc59eb.netlify.app/
+
 ## Technologies Used
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
